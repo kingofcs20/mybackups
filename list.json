@@ -3,19 +3,16 @@
     {
         "Ajax":
         {
-        "id": '',
         "max": 3
         },
         
         "mariTest":
         {
-        "id": '',
         "max": 2
         },
         
         "maryami":
         {
-        "id": '',
         "max": 2
         }
     },
