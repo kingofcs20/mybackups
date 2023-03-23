@@ -1,4 +1,18 @@
 {
+    "global": 
+    {
+        "mariTest":
+        {
+        "id": 65,
+        "max": 2
+        },
+        
+        "maryami":
+        {
+        "id": 66,
+        "max": 2
+        }
+    },
     "a1": 
     {
         "kambiz":
