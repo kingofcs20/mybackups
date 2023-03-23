@@ -1,15 +1,21 @@
 {
     "global": 
     {
+        "Ajax":
+        {
+        "id": '',
+        "max": 3
+        },
+        
         "mariTest":
         {
-        "id": 65,
+        "id": '',
         "max": 2
         },
         
         "maryami":
         {
-        "id": 66,
+        "id": '',
         "max": 2
         }
     },
@@ -30,18 +36,6 @@
         "abbas2":
         {
         "id": 64,
-        "max": 2
-        },
-        
-        "mariTest":
-        {
-        "id": 65,
-        "max": 2
-        },
-        
-        "maryami":
-        {
-        "id": 66,
         "max": 2
         }
     },
