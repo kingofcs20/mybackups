@@ -1,60 +1,41 @@
 {
-    "global": 
-    {
-        "Ajax":
-        {
-        "max": 3
-        },
-        
-        "mariTest":
-        {
-        "max": 2
-        },
-        
-        "maryami":
-        {
-        "max": 2
-        }
-    },
-    "a1": 
-    {
-        "kambiz":
-        {
-        "id": 42,
-        "max": 2
-        },
-
-        "will15":
-        {
-        "id": 43,
-        "max": 1
-        },
-        
-        "abbas2":
-        {
-        "id": 64,
-        "max": 2
-        }
-    },
-    
-    "a2": 
-    {
-    "mariTest":
-        {
-        "id": 1,
-        "max": 2
-        },
-
-    "taghi":
-        {
-        "id": 2,
-        "max": 5
-        },
-        
-    "naghi":
-        {
-        "id": 5,
-        "max": 10
-        }
-    }
+"global": {
+"Ajax": {
+"max": 3
+},
+"mariTest": {
+"max": 2
+},
+"maryami": {
+"max": 2
+}
+},
+"a1": {
+"kambiz": {
+"id": 42,
+"max": 2
+},
+"will15": {
+"id": 43,
+"max": 1
+},
+"abbas2": {
+"id": 64,
+"max": 2
+}
+},
+"a2": {
+"mariTest": {
+"id": 1,
+"max": 2
+},
+"taghi": {
+"id": 2,
+"max": 5
+},
+"naghi": {
+"id": 5,
+"max": 10
+}
+}
 }
