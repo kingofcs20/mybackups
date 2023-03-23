@@ -16,8 +16,20 @@
         "abbas2":
         {
         "id": 64,
-        "max": 1
+        "max": 2
         },
+        
+        "mariTest":
+        {
+        "id": 65,
+        "max": 2
+        },
+        
+        "maryami":
+        {
+        "id": 66,
+        "max": 2
+        }
     },
     
     "a2": 
