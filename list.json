@@ -74,6 +74,74 @@
 "max": 2
 }
 },
+"a2": {
+"wills": {
+"max": 1
+},
+"will2": {
+"max": 1
+},
+"will3": {
+"max": 1
+},
+"will4": {
+"max": 1
+},
+"will5": {
+"max": 1
+},
+"VPNm1": {
+"max": 1
+},
+"VPNm2": {
+"max": 1
+},
+"VPNm3": {
+"max": 1
+},
+"VPNm4": {
+"max": 1
+},
+"VPNm5": {
+"max": 1
+},
+"VPNm6": {
+"max": 1
+},
+"VPNm7": {
+"max": 1
+},
+"VPNm8": {
+"max": 1
+},
+"VPNm9": {
+"max": 1
+},
+"VPNm10": {
+"max": 1
+},
+"hamid1": {
+"max": 2
+},
+"hamid2": {
+"max": 2
+},
+"hamid3": {
+"max": 2
+},
+"hamid4": {
+"max": 2
+},
+"hamid5": {
+"max": 2
+},
+"hamid6": {
+"max": 2
+},
+"hamid7": {
+"max": 2
+}
+},
 "ns1": {
 "penatic_2": {
 "max": 2
