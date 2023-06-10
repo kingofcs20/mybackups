@@ -42,6 +42,7 @@
 "cacherznp16": 2
 },
 "cloud": {
+"osm23": 2,
 "willd6": 2,
 "willd7": 2,
 "willd8": 2,
@@ -52,6 +53,13 @@
 "willd13": 2,
 "willd14": 2,
 "willd15": 2
+},
+"cd": {
+"willd16": 2,
+"willd17": 2,
+"willd18": 2,
+"willd19": 2,
+"willd20": 2
 },
 "pink": {
 "pinkV8q32": 2,
