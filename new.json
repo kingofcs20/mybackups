@@ -29,24 +29,6 @@
 "hamid5": 2,
 "osm17": 2
 },
-"beta": {
-"osm13": 2,
-"rh12": 2,
-"rh13": 2,
-"rh14": 2,
-"rh15": 2,
-"rh16": 2,
-"rh17": 2,
-"rh18": 2,
-"rh19": 2,
-"rh20": 2,
-"rh21": 2,
-"rh22": 2,
-"rh23": 2
-},
-"alpha": {
-"dr safari": 2
-},
 "cache": {
 "osm30": 2,
 "amiiin97a": 2,
@@ -62,6 +44,7 @@
 },
 "cloud": {
 "osm23": 2,
+"dr safari": 2,
 "willd6": 2,
 "willd7": 2,
 "willd8": 2,
@@ -72,14 +55,6 @@
 "willd13": 2,
 "willd14": 2,
 "willd15": 2
-},
-"cd": {
-"ravi": 2,
-"willd16": 2,
-"willd17": 2,
-"willd18": 2,
-"willd19": 2,
-"willd20": 2
 },
 "pink": {
 "pinkV8q32": 2,
@@ -108,46 +83,7 @@
 "ninja1": 2,
 "ninja2": 2
 },
-"a1": {
-"shayan": 2,
-"mohsen": 2,
-"mahmoud": 2,
-"omid1": 2,
-"omid2": 2,
-"omid3": 3,
-"ravi": 2
-},
-"a2": {
-"user_vpn2": 2,
-"roko": 2,
-"andiya": 2,
-"doctor": 2,
-"ALI#9934_2": 2,
-"wills2": 2,
-"wills3": 2,
-"wills6": 2,
-"wills7": 2,
-"wills8": 2,
-"hamid1": 2,
-"hamid2": 2,
-"hamid3": 2,
-"hamid4": 2,
-"hamid5": 2,
-"hamid6": 2,
-"hamid7": 2
-},
 "ns1": {
-"penatic_2": 2,
-"user_vpn": 2,
-"will02": 2,
-"will09": 2,
-"will10": 2,
-"will3_3": 2,
-"r3": 2,
-"r4": 2,
-"r5": 2,
-"r6": 2,
-"r7": 2,
-"will14": 2
+"penatic_2": 2
 }
 }
