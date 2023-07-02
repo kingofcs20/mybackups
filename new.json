@@ -32,28 +32,13 @@
 "ali9934_2": 2
 },
 "gamma": {
+"dr-safari": 2,
 "hamid1": 2,
 "hamid2": 2,
 "hamid3": 2,
 "hamid4": 2,
 "hamid5": 2,
-"osm17": 2
-},
-"cache": {
-"osm30": 2,
-"amiiin97a": 2,
-"omid1": 2,
-"omid2": 2,
-"omid3": 2,
-"ninja7": 2,
-"ninja8": 2,
-"ninja9": 2,
-"ninja11": 2,
-"ninja15": 2,
-"andiya2": 2,
-"cacherznp16": 2
-},
-"cloud": {
+"osm17": 2,
 "osm23": 2,
 "dr safari": 2,
 "willd6": 2,
@@ -69,6 +54,20 @@
 "willd16": 2,
 "willd17": 2,
 "willd18": 2
+},
+"cache": {
+"osm30": 2,
+"amiiin97a": 2,
+"omid1": 2,
+"omid2": 2,
+"omid3": 2,
+"ninja7": 2,
+"ninja8": 2,
+"ninja9": 2,
+"ninja11": 2,
+"ninja15": 2,
+"andiya2": 2,
+"cacherznp16": 2
 },
 "pink": {
 "pinkV8q32": 2,
