@@ -31,6 +31,11 @@
 "hamid4": 2,
 "hamid5": 2
 },
+"chi": {
+"willd40": 2,
+"willd41": 2,
+"willd42": 2
+},
 "phi": {
 "osm63": 2,
 "osm67": 2,
@@ -61,7 +66,6 @@
 "omicron": {
 "alipour": 2,
 "fati": 2
-
 },
 "xi": {
 "willd31": 2,
@@ -87,13 +91,6 @@
 "hamid5": 2,
 "hamid6": 2
 },
-"kappa": {
-"dr-safari": 2,
-"alish1986": 2,
-"willd21": 2,
-"willd22": 2,
-"willd23": 2
-},
 "iota": {
 "osm37": 2
 },
@@ -118,19 +115,5 @@
 "mtn801": 2,
 "ali9934": 2,
 "ali9934_2": 2
-},
-"cache": {
-"osm30": 2,
-"amiiin97a": 2,
-"omid1": 2,
-"omid2": 2,
-"omid3": 2,
-"ninja7": 2,
-"ninja8": 2,
-"ninja9": 2,
-"ninja11": 2,
-"ninja15": 2,
-"andiya2": 2,
-"cacherznp16": 2
 }
 }
